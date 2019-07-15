@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"github.com/akamensky/argparse"
 	"image"
+	_ "image/gif"
+	_ "image/jpeg"
 	"image/png"
 	"os"
 )
